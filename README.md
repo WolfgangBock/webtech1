@@ -3,3 +3,4 @@ Test-Repo für das Minor WebTech
 Hier testen wir heute.
 
 Mein erster Commit.
+Mein zweiter Commit.
